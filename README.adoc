@@ -1,0 +1,8 @@
+This repository contains a user-defined command to create a simple @RestController for use with the Spring CLI
+
+You can install it in the Spring CLI by executing the command
+
+
+```
+spring command install https://github.com/rd-1-2022/udc-spring-controller
+```
