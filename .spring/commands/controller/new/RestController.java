@@ -1,7 +1,3 @@
----
-action:
-  generate: "src/main/java/{{root-package-dir}}/{{feature}}/{{capitalizeFirst feature}}Controller.java"
----
 package {{root-package}}.{{feature}};
 
 import org.springframework.web.bind.annotation.GetMapping;
